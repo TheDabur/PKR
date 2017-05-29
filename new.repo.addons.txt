@@ -1,0 +1,9 @@
+
+plugin.program.super.favourites
+resource.language.he_il
+script.trakt
+script.module.unidecode
+service.subtitles.opensubtitles
+service.subtitles.podnapisi
+service.subtitles.subscenter
+service.subtitles.subtitle
